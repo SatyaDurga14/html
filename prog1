@@ -1,0 +1,45 @@
+<html>
+ <head>
+   <title>Programming Lang</title>
+ </head>
+ <body bgcolor=pink text=blue> 
+   <h1> <center> <b> <u> CSE </u> </b> </center> </h1>
+   <font color=black size=4 face="Lucida Bright">
+     <ol>
+	<li>
+	 <dl>
+           <dt> <font color=cyan size=5 face="Monotype Corsiva">JAVA</font></dt>
+             <ul>
+	     <li>Java is an OOP</li>
+	     <li>Java is used for Web services</li>
+             </ul>
+         </dl>
+	</li>
+       <hr size=10 color=purple>
+       </hr>
+       <li>
+	 <dl>
+           <dt> <font color=cyan size=5 face="Monotype Corsiva">PYTHON</font></dt>
+             <ul>
+	     <li>Python is invented by Guido Van Rossum</li>
+	     <li>Python  is the most popular language</li>
+             </ul>
+         </dl>
+       </li>
+       <hr size=10 color=purple>
+       </hr>
+        <li>
+	 <dl>
+           <dt> <font color=cyan size=5 face="Monotype Corsiva">C</font></dt>
+             <ul>
+	     <li>C is a procedural Programming Language</li>
+	     <li>C is developed by Dennis Ritchie</li>
+             </ul>
+         </dl>
+	</li>
+     </ol>
+   </font>
+
+   <font size=3 face="Courier"><center>Created by<font size=5 color=red face="Monotype Corsiva"><b> 19MH1A0596</b></font></center></font>
+ </body>
+</html>
