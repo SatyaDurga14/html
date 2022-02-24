@@ -1,0 +1,79 @@
+<html>
+ <head>
+  <title>TIME TABLE</title>
+</head>
+  <body>
+   <font align=center color=red face="Fixedsys"><H1>Time Table</H1></font>
+     <table align=center border=3>
+      <tr bgcolor=purple >
+       <th>SNO:</th>
+       <th>Period-1</th>
+       <th>Period-2</th>
+	<th>Period-3</th>
+       <th>BREAK</th>
+	<th>Period-4</th>
+	<th>Period-5</th>
+       <th>Period-6</th>
+      </tr>
+     
+      <tr>  
+         <th bgcolor=purple>MON</th>
+         <td align=center bgcolor=yellow>WT <ul><li>Y DP</li></ul></td>
+         <td align=center bgcolor=blue>DAA <ul><li>P Venkat</li></ul></td>
+         <td align=center bgcolor=pink>C<ul><li>K Murthy</li></ul></td>
+         <td rowspan=6 bgcolor=gray align=center>L<br>U<br>N<br>C<br>H<br><br>B<br>R<br>E<br>A<br>K</td>
+ 	  <td align=center bgcolor=green>DWDM <ul><li>D Kumar</li></ul></td>
+           <td align=center bgcolor=gray>SE<ul><li>P Kalyani</li></ul></td>
+	   <td align=center bgcolor=green>DWDM <ul><li>D Kumar</li></ul></td>
+         
+      </tr>
+	
+      <tr>
+         <th bgcolor=purple>TUE</th>
+         <td align=center bgcolor=blue>DAA <ul><li>P Venkat</li></ul></td>
+         <td align=center bgcolor=gray>SE <ul><li>P Kalyani</li></ul></td>
+         <td align=center bgcolor=red>CN <ul><li>O Satya</li></ul></td>
+        <td align=center bgcolor=teal colspan=3>WT CN Lab<ul><li>Y DP</li><li>M Neelima</li></ul></td>
+         
+      </tr>
+
+       <tr> 
+         <th bgcolor=purple>WED</th>
+         <td align=center bgcolor=green>DWDM <ul><li>D Kumar</li></ul></td>
+         <td align=center bgcolor=yellow>WT <ul><li>Y DP</li></ul></td>
+         <td align=center bgcolor=red>CN <ul><li>O Satya</li></ul></td>
+          <td align=center bgcolor=orange colspan=3>CN SE Lab<ul><li>M Neelima</li><li>Y Venkat</li></ul></td>
+      </tr>
+
+	<tr>
+          <th bgcolor=purple>THU</th>
+	   <td align=center bgcolor=pink>C <ul><li>K Murthy</li></ul></td>
+	   <td align=center bgcolor=red>CN <ul><li>O Satya</li></ul></td>
+	    <td align=center bgcolor=gray>SE <ul><li>P Kalyani</li></ul></td>
+             <td align=center bgcolor=blue>DAA <ul><li>P Venkat</li></ul></td>
+	   <td align=center bgcolor=yellow>WT <ul><li>Y DP</li></ul></td>
+            <td align=center bgcolor=green>DWDM <ul><li>D Kumar</li></ul></td>
+        </tr>
+
+	<tr>
+           <th bgcolor=purple>FRI</th>
+           <td align=center bgcolor=yellow>WT <ul><li>Y DP</li></ul></td>
+	   <td align=center bgcolor=gray>SE <ul><li>P Kalyani</li></ul></td>
+           <td align=center bgcolor=red>CN <ul><li>O Satya</li></ul></td>
+            <td align=center bgcolor=aqua colspan=3>WT SE Lab<ul><li>Y DP</li><li>Y Venkat</li></td>
+        </tr>
+
+	<tr> 
+          <th bgcolor=purple>SAT</th>
+          <td align=center bgcolor=green>DWDM <ul><li>D Kumar</li></ul></td>
+	  <td align=center bgcolor=yellow>WT <ul><li>Y DP</li></ul></td>
+          <td align=center bgcolor=blue>DAA <ul><li>P Venkat</li></ul></td>
+          <td align=center bgcolor=gray>SE <ul><li>P Kalyani</li></ul></td>
+         <td align=center bgcolor=red>CN <ul><li>O Satya</li></ul></td>
+           <td align=center bgcolor=pink>C <ul><li>K Murthy</li></ul></td>
+       </tr>
+     </table>
+    
+  </body>
+ 
+</html>
